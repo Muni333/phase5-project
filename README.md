@@ -1,0 +1,2 @@
+# phase5-project
+FAKE NEWS DETECTION USING NPL
